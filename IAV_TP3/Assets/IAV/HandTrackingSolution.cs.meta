@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 6263c63552ed0a54183da58e7f1696a3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _bootstrapPrefab: {fileID: 968918444066301895, guid: 1146a9de09159a948b683e94fb3d3c95,
+      type: 3}
+  - screen: {instanceID: 0}
+  - graphRunner: {instanceID: 0}
+  - textureFramePool: {instanceID: 0}
+  - _palmDetectionsAnnotationController: {instanceID: 0}
+  - _handRectsFromPalmDetectionsAnnotationController: {instanceID: 0}
+  - _handLandmarksAnnotationController: {instanceID: 0}
+  - _handRectsFromLandmarksAnnotationController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
